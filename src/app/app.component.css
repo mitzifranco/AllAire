@@ -1,0 +1,20 @@
+.centerImage{
+    display: flex;
+    justify-content: center;
+}
+.center{
+    text-align: center;
+    color: #85A958;
+}
+.title{
+    text-align: center;
+    color: #85A958;
+}
+.titleColor{
+    color:#FFFFFF;
+    background-color: #85A958;
+}
+.data{
+    text-align: center;
+    color: #4692f6;
+}
